@@ -2,7 +2,7 @@
 
 ## **Contact**
 
-(@midaBricoll)[https://t.me/midaBricoll]
+[@midaBricoll](https://t.me/midaBricoll)
 
 ## **Features**  
 - Sniping tokens with WSOL  
